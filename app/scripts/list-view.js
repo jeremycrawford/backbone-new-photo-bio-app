@@ -22,7 +22,7 @@ var ListView = Backbone.View.extend({
   },
 
   addMainView: function(){
-    new MainView( {model: this.model } )
+    new MainView( {model: this.model } );
   }
 
 });
