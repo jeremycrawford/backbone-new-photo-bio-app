@@ -37,13 +37,13 @@ var data = [
   },
   {
     name: 'As I Lay Dying',
-    bio: 'lahsdkjlfhajksdhfkjashdkjf haskjdfhkajshdfkjl asdljfhaksljdhf kjlashdjk askjfhalkjsdhflkjas',
+    bio: 'As I Lay Dying are a metal-hardcore crossover band from San Diego, California. The group formed as a trio in 2001 with vocalist Tim Lambesis, drummer Jordan Mancino, and guitarist Evan White, and shortly thereafter released Beneath the Encasing of Ashes.',
     phone: '123-123-4567',
     avatar: 'http://upload.wikimedia.org/wikipedia/en/d/d8/Shadows_are_security.jpg',
   },
   {
     name: 'Converge',
-    bio: 'lahsdkjlfhajksdhfkjashdkjf haskjdfhkajshdfkjl asdljfhaksljdhf kjlashdjk askjfhalkjsdhflkjas',
+    bio: "Converge is an American metalcore band from Salem, Massachusetts formed in 1990. The group's musical style consists of complex guitar work and polyrhythmic drumming, as well as frequent use of unorthodox time signatures, leading some to describe the band as mathcore.",
     phone: '123-123-4567',
     avatar: 'http://upload.wikimedia.org/wikipedia/en/b/b5/Converge-JaneDoe.jpg',
   },
@@ -142,10 +142,10 @@ var data = [
     avatar: 'http://ecx.images-amazon.com/images/I/61yC5IEUsDL.jpg',
   },
   {
-    name: 'Poison the Well',
+    name: 'Every Time I Die',
     bio: 'lahsdkjlfhajksdhfkjashdkjf haskjdfhkajshdfkjl asdljfhaksljdhf kjlashdjk askjfhalkjsdhflkjas',
     phone: '123-123-4567',
-    avatar: 'http://www.punknews.org/images/interviews/int-1353953595.jpg',
+    avatar: 'http://www.metalsucks.net/wp-content/uploads/2007/07/110-69f0e22653072da11eefa8dfa3b01671.jpg',
   },
   {
     name: 'War of Ages',
@@ -154,9 +154,15 @@ var data = [
     avatar: 'http://www.metalkingdom.net/album/cover/d77/21955_war_of_ages_pride_of_the_wicked.jpg',
   },
   {
-    name: 'Between the Buried and Me',
+    name: 'The Fall of Troy',
     bio: 'lahsdkjlfhajksdhfkjashdkjf haskjdfhkajshdfkjl asdljfhaksljdhf kjlashdjk askjfhalkjsdhflkjas',
     phone: '123-123-4567',
-    avatar: 'http://2.bp.blogspot.com/-hyHfZo9QlFU/UARkx1UkwnI/AAAAAAAANzI/8lkzvA_6Vl0/s400/Horns%2BUp%2BRocks%2BBetween%2BThe%2BBuried%2BAnd%2BMe%2BThe%2BParallax%2BII%2BFuture%2BSequence%2BAlbum%2BCover%2BArt',
+    avatar: 'http://upload.wikimedia.org/wikipedia/en/2/23/PhantomonthehorizonVINYL.jpeg',
+  },
+  {
+    name: 'The Bled',
+    bio: 'lahsdkjlfhajksdhfkjashdkjf haskjdfhkajshdfkjl asdljfhaksljdhf kjlashdjk askjfhalkjsdhflkjas',
+    phone: '123-123-4567',
+    avatar: 'http://upload.wikimedia.org/wikipedia/en/d/dc/The_Bled_-_Heat_Fetish.jpg',
   },
 ]

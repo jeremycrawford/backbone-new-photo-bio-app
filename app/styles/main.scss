@@ -59,19 +59,28 @@ body {
 
 .jumbo-item {
 
-    color: gray;
-
     h4 {
-        font-weight: 100;
+        letter-spacing: 1px;
+        font-weight: 200;
+        color: gray;
         text-transform: uppercase;
+    }
+
+    p {
+        margin-left: 100px;
+        text-align: left;
+        font-weight: 300;
+        font-size: 14px;
+        width: 400px;
+        color: rgb(102, 102, 102);
     }
     
 }
 
 .main-photo {
     border-radius: 17px;
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     padding: 10px;
 }
 
