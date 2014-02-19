@@ -73,7 +73,7 @@ var data = [
   },
   {
     name: 'In Flames',
-    bio: 'lahsdkjlfhajksdhfkjashdkjf haskjdfhkajshdfkjl asdljfhaksljdhf kjlashdjk askjfhalkjsdhflkjas',
+    bio: "In Flames is a Swedish metal band from Gothenburg, formed in 1990. Since the band's inception, they have released ten studio albums, three EPs, and one live DVD. As of 2008, In Flames has sold over 2 million records worldwide.",
     phone: '123-123-4567',
     avatar: 'http://tracksix.files.wordpress.com/2008/02/purposecoverlores.jpg',
   },
@@ -120,7 +120,7 @@ var data = [
   },
   {
     name: 'All That Remains',
-    bio: 'lahsdkjlfhajksdhfkjashdkjf haskjdfhkajshdfkjl asdljfhaksljdhf kjlashdjk askjfhalkjsdhflkjas',
+    bio: "Formed by guitarist Oli Herbert and ex-Shadows Fall vocalist Phil Labonte in 1998, Massachusetts' All That Remains debuted in 2002 with Behind Silence and Solitude on Metal Blade.",
     phone: '123-123-4567',
     avatar: 'http://www.nuffradio.com/web/pictures/az_791_Overcome_All%20That%20Remains.jpg',
   },{
@@ -143,7 +143,7 @@ var data = [
   },
   {
     name: 'Every Time I Die',
-    bio: 'lahsdkjlfhajksdhfkjashdkjf haskjdfhkajshdfkjl asdljfhaksljdhf kjlashdjk askjfhalkjsdhflkjas',
+    bio: 'Every Time I Die is a hardcore punk band from Buffalo, New York, formed in 1998. Their musical style is rooted in technical hardcore with strong southern metal and mathcore elements, and is also characterised by their cryptic, bitingly sarcastic lyrics.[2][3] They have also garnered much critical and fan acclaim for their high energy, intense live shows.',
     phone: '123-123-4567',
     avatar: 'http://www.metalsucks.net/wp-content/uploads/2007/07/110-69f0e22653072da11eefa8dfa3b01671.jpg',
   },
