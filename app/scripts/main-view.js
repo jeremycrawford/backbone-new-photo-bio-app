@@ -3,7 +3,7 @@ var MainView = Backbone.View.extend({
   className: 'jumbo-item',
 
   events: {
-    "click": "remove"
+    "click .main-photo": "remove"
   },
 
   jumboTemplate: _.template($('#jumbo-item-template').text()),
