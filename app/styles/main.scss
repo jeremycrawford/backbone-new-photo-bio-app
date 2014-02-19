@@ -65,16 +65,22 @@ body {
     }
     color: gray;
 }
+
+.list-item {
+    margin: 0 auto;
+    display: inline-block;
+    padding-top: 10px;
+}
         
 
 .list-photo {
     height: 100px;
-    border-radius: 50%
+    border-radius: 6px;
 }
 
 .main-photo {
     height: 300px;
-    border-radius: 50%;
+    border-radius: 6px;
 }
 
 /* Supporting marketing content */

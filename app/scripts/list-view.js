@@ -1,7 +1,7 @@
 console.log('my list View is located')
 
 var ListView = Backbone.View.extend({
-  className: 'list-item',
+  className: 'list-item col-md-3',
 
   createTemplate: _.template($('#list-item-template').text()),
 
@@ -23,9 +23,13 @@ var ListView = Backbone.View.extend({
 
   addMainView: function(){
     new MainView( {model: this.model } );
+
+    $( "body" ).animate({scrollTop: $(".jumbotron").offset().top - 50 }, "slow");
+    console.log('executed scrollToElement');
   }
 
 });
 
+// $('html,body').animate({scrollTop: some_selected_element.offset().top});
 
-
+// $("html, body").animate({ scrollTop: 0 }, "slow");
