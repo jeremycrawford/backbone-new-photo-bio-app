@@ -142,16 +142,16 @@ var data = [
     avatar: 'http://ecx.images-amazon.com/images/I/61yC5IEUsDL.jpg',
   },
   {
-    name: 'Between the Buried and Me',
+    name: 'Poison the Well',
     bio: 'lahsdkjlfhajksdhfkjashdkjf haskjdfhkajshdfkjl asdljfhaksljdhf kjlashdjk askjfhalkjsdhflkjas',
     phone: '123-123-4567',
-    avatar: 'http://2.bp.blogspot.com/-hyHfZo9QlFU/UARkx1UkwnI/AAAAAAAANzI/8lkzvA_6Vl0/s400/Horns%2BUp%2BRocks%2BBetween%2BThe%2BBuried%2BAnd%2BMe%2BThe%2BParallax%2BII%2BFuture%2BSequence%2BAlbum%2BCover%2BArt',
+    avatar: 'http://www.punknews.org/images/interviews/int-1353953595.jpg',
   },
   {
-    name: 'Between the Buried and Me',
+    name: 'War of Ages',
     bio: 'lahsdkjlfhajksdhfkjashdkjf haskjdfhkajshdfkjl asdljfhaksljdhf kjlashdjk askjfhalkjsdhflkjas',
     phone: '123-123-4567',
-    avatar: 'http://2.bp.blogspot.com/-hyHfZo9QlFU/UARkx1UkwnI/AAAAAAAANzI/8lkzvA_6Vl0/s400/Horns%2BUp%2BRocks%2BBetween%2BThe%2BBuried%2BAnd%2BMe%2BThe%2BParallax%2BII%2BFuture%2BSequence%2BAlbum%2BCover%2BArt',
+    avatar: 'http://www.metalkingdom.net/album/cover/d77/21955_war_of_ages_pride_of_the_wicked.jpg',
   },
   {
     name: 'Between the Buried and Me',
