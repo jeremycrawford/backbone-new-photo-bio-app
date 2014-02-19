@@ -8,6 +8,7 @@ var ListView = Backbone.View.extend({
 
   events: {
     "click": "addMainView",
+    "click": "remove"
   },
 
   initialize: function(){

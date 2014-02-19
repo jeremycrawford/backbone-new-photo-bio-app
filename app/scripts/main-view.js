@@ -21,3 +21,4 @@ var MainView = Backbone.View.extend({
   }
 
 });
+

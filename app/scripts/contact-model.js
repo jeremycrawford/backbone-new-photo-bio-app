@@ -1,12 +1,16 @@
 var Contact = Backbone.Model.extend({
+  idAttribute: "_id",
+
   defaults: {
     name: 'Steve Holt',
     phone: '777-574-1234',
-    avatar: 'http://4.bp.blogspot.com/-tNHx8Gt5d1c/T2aHYdEWReI/AAAAAAAAFus/i_Zg63NK93g/s400/6.jpg',
+    avatar: 'http://wac.450f.edgecastcdn.net/80450F/noisecreep.com/files/2011/07/wcar-476-71511.jpg',
     bio: 'I like to eat food.'
   }
 });
 
 var ContactsCollection = Backbone.Collection.extend({
-  model: Contact
+  model: Contact,
+  url: 'http://0.0.0.0:3000/collections/contacts'
+
 })
